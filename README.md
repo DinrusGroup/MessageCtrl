@@ -1,10 +1,10 @@
-# MessageCtrl package for U++
+# Пакет MessageCtrl для U++/DinrusIDE
 
-This package implements a messages manager widget. Messages are simple message boxes similar to prompts in that they can allow the same basic user actions. However, message boxes are not meant as a replacement for the traditional U++ dialogs. The main difference between the messages and the prompts is that the message boxes are implemented as frames instead of dialogs, and are meant to be less intrusive, and non-blocking.
+Этот пакет реализует виджет менеджера сообщений. Сообщения - это простые боксы сообщений, подобные промптам, так как допускаются подобные же пользовательские действия, как и в их случае. Однако,боксы сообщений не заменяют традиционных диалоговых окон U++. The main difference between the messages and the prompts is that the message boxes are implemented as frames instead of dialogs, and are meant to be less intrusive, and non-blocking.
 
-## Message box types
+## Типы боксов сообщений
 
-| Type        | Description |
+| Тип        | Описание |
 |---          | ---         |
 | Information | Should be used to display common information.                                                     |
 | Warning     | Should be used to report non-critical issue, to inform not everything is all right.               |

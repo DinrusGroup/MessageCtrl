@@ -1,7 +1,6 @@
 description "A passive message ctrl and manager for U++\377";
 
 uses
-	Core,
 	CtrlLib;
 
 file
